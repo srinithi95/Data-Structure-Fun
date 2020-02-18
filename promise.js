@@ -14,7 +14,7 @@ promiseExample()
 
 console.log('hi');
 
-
+//huj
 
 const promiseExample=(name)=>{
   return new promise((resolve,reject)=>{
